@@ -9,8 +9,8 @@
   },
   "devDependencies": {},
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
-  },
+     "test": "standard"
+ },
   "repository": {
     "type": "git",
     "url": "git+https://gitlab.com/alestor123/are-we-online.git"
