@@ -20,5 +20,5 @@ module.exports = function (cb) {
 
   socket.on('error', done)
   socket.on('connect', done)
-}
+
     }
